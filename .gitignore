@@ -1,0 +1,5 @@
+# Ignore raw data files
+data/
+# or, more targeted:
+# data/bluebook-for-bulldozers/*.csv
+# *.zip
